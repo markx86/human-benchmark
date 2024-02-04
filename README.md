@@ -1,2 +1,2 @@
 # human-benchmark
-Scripts to cheat at human benchmark
+Scripts for cheating at human benchmark I made while I was bored with studying.
